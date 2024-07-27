@@ -6,7 +6,7 @@
 具体内容及代码详解可以参考 [CPU_学习笔记.pdf](CPU_5stage)
 
 ## 目录结构描述
-├── Readme.md                   // help
+├── Readme.md
 
 ├── CPU_5stage                  // 五阶流水线
 
