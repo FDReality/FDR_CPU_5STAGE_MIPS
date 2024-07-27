@@ -7,8 +7,11 @@
 
 ## 目录结构描述
 ├── Readme.md                   // help
+
 ├── CPU_5stage                  // 五阶流水线
+
 ├── CPU_test                    // 单周期
+
 ## 参考资料
 
 - *[[1] 流水线处理器 — CA-Labs 1.0.0 文档](https://hit-coa.gitlab.io/archlab/labs/lab1.html)*
