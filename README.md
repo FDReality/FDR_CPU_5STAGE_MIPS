@@ -1,7 +1,7 @@
 # FDR_CPU_5STAGE_MIPS
 
 ## 这是什么？
-参考HIT计组课程的LAB，实现的一个五阶流水线的简易CPU，支持数据前递和动态分支分预测，仅实现基本的MIPS指令
+参考HIT计组课程的LAB实现的一个五阶流水线的简易CPU，支持数据前递和动态分支分预测，实现基本的MIPS指令
 ## 参考资料
 - *[[1] 流水线处理器 — CA-Labs 1.0.0 文档](https://hit-coa.gitlab.io/archlab/labs/lab1.html)*
 - *[[2] 哈工大2023处理器设计与计算机体系结构实验](https://github.com/MengYueqi/HIT_CPU_verilog)*
